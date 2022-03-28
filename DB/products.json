@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "623ef51cd673485664470767"
+  },
+  "price": 350,
+  "countInStock": 4,
+  "rating": 4,
+  "numReviews": 1,
+  "name": "Men Navy Blue Graphic Printed Cotton Pure Cotton T-shirt",
+  "image": "/uploads\\1648294112741.jpg",
+  "brand": "copperchips",
+  "category": "1",
+  "description": "Navy Blue graphic printed T-shirt, has a round neck, and short sleeves.\n\nDecent quality t-shirt. I'm a 6ft skinny guy and M size was a good fit. If you like loose t-shirt then go for one size up otherwise the fir is good. One thing that I found oddly small was the arm length. For an M size I expected the arm length to be a couple of cms longer. Overall very good t-shirt.",
+  "reviews": [
+    {
+      "rating": 4,
+      "_id": {
+        "$oid": "624008c9d6734856644708a9"
+      },
+      "name": "pankaj",
+      "comment": "good product",
+      "createdAt": {
+        "$date": "2022-03-27T06:48:41.514Z"
+      },
+      "updatedAt": {
+        "$date": "2022-03-27T06:48:41.514Z"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623ef557d67348566447076a"
+  },
+  "price": 320,
+  "countInStock": 4,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "Men Blue & White Colourblocked Pure Cotton Polo Collar T-shirt",
+  "image": "/uploads\\1648294093251.jpg",
+  "brand": "copperchips",
+  "category": "1",
+  "description": "Blue and White colourblocked T-shirt, has a polo collar, button closures, and short sleeves.",
+  "reviews": [
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "6240073fd673485664470893"
+      },
+      "name": "pankaj",
+      "comment": "nice color ",
+      "createdAt": {
+        "$date": "2022-03-27T06:42:07.175Z"
+      },
+      "updatedAt": {
+        "$date": "2022-03-27T06:42:07.175Z"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623ef6ced67348566447076e"
+  },
+  "price": 150,
+  "countInStock": 4,
+  "rating": 4,
+  "numReviews": 1,
+  "name": "Men Navy Blue Mustard Yellow Colourblocked Polo",
+  "image": "/uploads\\1648294070843.jpg",
+  "brand": "copperchips",
+  "category": "1",
+  "description": "Navy Blue and Mustard yellow colourblocked T-shirt, has a polo collar, button closure and short sleeves.",
+  "reviews": [
+    {
+      "rating": 4,
+      "_id": {
+        "$oid": "62400725d67348566447088c"
+      },
+      "name": "pankaj",
+      "comment": "Mustard Yellow for best",
+      "createdAt": {
+        "$date": "2022-03-27T06:41:41.261Z"
+      },
+      "updatedAt": {
+        "$date": "2022-03-27T06:41:41.261Z"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623ef939d673485664470782"
+  },
+  "price": 180,
+  "countInStock": 4,
+  "rating": 3,
+  "numReviews": 1,
+  "name": "Time Travlr Men Teal Blue Printed Round Neck Pure Cotton T-shirt",
+  "image": "/uploads\\1648294175363.jpg",
+  "brand": "copperchips",
+  "category": "1",
+  "description": "The feel of this Roadster tee is absolutely amazing thanks to the designer's use of cotton. Wear this teal piece many ways, with dark wash jeans, cuffed chinos and more.",
+  "reviews": [
+    {
+      "rating": 3,
+      "_id": {
+        "$oid": "62400706d673485664470881"
+      },
+      "name": "pankaj",
+      "comment": "Blue Printed Round Neck",
+      "createdAt": {
+        "$date": "2022-03-27T06:41:10.405Z"
+      },
+      "updatedAt": {
+        "$date": "2022-03-27T06:41:10.405Z"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623ef996d673485664470786"
+  },
+  "price": 210,
+  "countInStock": 4,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "Men Red Printed Slim Fit Replica Jersey V-Neck T-shirt",
+  "image": "/uploads\\1648294268124.jpg",
+  "brand": "copperchips",
+  "category": "1",
+  "description": "Genuine Puma Product! Only problem was that when i checked the size chart, M was ok for me but it was too tight. Later I exchanged it with size L and now it fits comfortably. It's advisable to order a size bigger than that mentioned in the size chart.",
+  "reviews": [
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "624006c9d67348566447087a"
+      },
+      "name": "pankaj",
+      "comment": "Genuine Puma Product",
+      "createdAt": {
+        "$date": "2022-03-27T06:40:09.934Z"
+      },
+      "updatedAt": {
+        "$date": "2022-03-27T06:40:09.934Z"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6241977488e1f28ef869fdc1"
+  },
+  "price": 158,
+  "countInStock": 4,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Puma by Hrithik Roshan Men Black & Grey Printed T-shirt",
+  "image": "/uploads\\1648465768156.jpg",
+  "brand": "copperchips",
+  "category": "1",
+  "description": "Swap your usual T-shirt with the HRX Men's Running T-shirt and feel your run become easier and more comfortable. Designed with Rapid Dry technology, it wicks away sweat to keep you cool and dry from start to finish.",
+  "reviews": [],
+  "__v": 0
+}]

@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "62405f40a8c7cf571c2cbdf9"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62405f40a8c7cf571c2cbdfa"
+      },
+      "product": {
+        "$oid": "623ef6ced67348566447076e"
+      },
+      "name": "Men Navy Blue Mustard Yellow Colourblocked Polo",
+      "image": "/uploads\\1648294070843.jpg",
+      "price": "150",
+      "qty": 2
+    },
+    {
+      "_id": {
+        "$oid": "62405f40a8c7cf571c2cbdfb"
+      },
+      "product": {
+        "$oid": "623ef996d673485664470786"
+      },
+      "name": "Men Red Printed Slim Fit Replica Jersey V-Neck T-shirt",
+      "image": "/uploads\\1648294268124.jpg",
+      "price": "210",
+      "qty": 1
+    },
+    {
+      "_id": {
+        "$oid": "62405f40a8c7cf571c2cbdfc"
+      },
+      "product": {
+        "$oid": "623ef51cd673485664470767"
+      },
+      "name": "Men Navy Blue Graphic Printed Cotton Pure Cotton T-shirt",
+      "image": "/uploads\\1648294112741.jpg",
+      "price": "350",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "623ecb50d673485664470731"
+  },
+  "shipping": {
+    "address": "sdfetg",
+    "city": "ghaziabad",
+    "postalCode": "213432",
+    "country": "fdghg"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 860,
+  "taxPrice": 129,
+  "shippingPrice": 0,
+  "totalPrice": 989,
+  "createdAt": {
+    "$date": "2022-03-27T12:57:36.300Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-27T12:57:36.300Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624162eaa8c7cf571c2cbe57"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "624162eaa8c7cf571c2cbe58"
+      },
+      "product": {
+        "$oid": "623ef6ced67348566447076e"
+      },
+      "name": "Men Navy Blue Mustard Yellow Colourblocked Polo",
+      "image": "/uploads\\1648294070843.jpg",
+      "price": "150",
+      "qty": 1
+    },
+    {
+      "_id": {
+        "$oid": "624162eaa8c7cf571c2cbe59"
+      },
+      "product": {
+        "$oid": "623ef51cd673485664470767"
+      },
+      "name": "Men Navy Blue Graphic Printed Cotton Pure Cotton T-shirt",
+      "image": "/uploads\\1648294112741.jpg",
+      "price": "350",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "623ecb50d673485664470731"
+  },
+  "shipping": {
+    "address": "cxvbcgnhj",
+    "city": "ghaziabad",
+    "postalCode": "213432",
+    "country": "fdghg"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 500,
+  "taxPrice": 75,
+  "shippingPrice": 0,
+  "totalPrice": 575,
+  "createdAt": {
+    "$date": "2022-03-28T07:25:31Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-28T07:25:31Z"
+  },
+  "__v": 0
+}]

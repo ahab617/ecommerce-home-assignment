@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "623c9c4727fd1517b46af0a1"
+  },
+  "price": 479,
+  "countInStock": 23,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Dennis Lingo Men's Classic Collar Casual Shirt",
+  "image": "/uploads\\1648139276304.jpg",
+  "brand": "Dennis Lingo",
+  "category": "Shirts",
+  "description": "Fit Type: slim fit\nColor Name: Bottle Green\nLong sleeve\nSlim fit\nMade in India\n100% Premium cotton, pre-washed for extremely soft hand feel\nStylish plain casual shirt for Men\nOrder one size larger for relaxed fit",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623c9d4327fd1517b46af0b4"
+  },
+  "price": 399,
+  "countInStock": 10,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "IndoPrimo Men's Slim Fit Casual Shirt",
+  "image": "/uploads\\1648139530891.jpg",
+  "brand": "IndoPrimo",
+  "category": "Shirts",
+  "description": "Care Instructions: Hand Wash Only\nFit Type: Regular Fit\n100% High-grade Cotton Fabrics: Good capability of tenderness, air permeability and moisture absorption feels soft and comfy.\nSuitable for: Sports, Casual, Business Work, Date, Party, Perfect gift for families, friends and boyfriend\nSlim Fit , Fabric: 100% Cotton , Full Sleeve ,Casual Shirts\nHigh Quality Fabric and Stitching\nWash Instruction: Handwash / Machine wash| Low iron and tumble dry on low heat",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623c9e1227fd1517b46af0bd"
+  },
+  "price": 299,
+  "countInStock": 40,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "blackberrys Men's Skinny Casual Pants",
+  "image": "/uploads\\1648139736823.jpg",
+  "brand": "blackberrys",
+  "category": "Pants",
+  "description": "Polyester Pocket Lining",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ca97527fd1517b46af0d9"
+  },
+  "price": 60,
+  "countInStock": 6,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Slim Shirt",
+  "image": "/uploads\\1648142656682.jpg",
+  "brand": "Nike",
+  "category": "Shirts",
+  "description": "Slim Shirt",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623caa0227fd1517b46af0e0"
+  },
+  "price": 50,
+  "countInStock": 6,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Fit Shirt",
+  "image": "/uploads\\1648142831690.jpg",
+  "brand": "Nike",
+  "category": "Shirts",
+  "description": "Fit Shirt",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623caaa227fd1517b46af0e4"
+  },
+  "price": 60,
+  "countInStock": 6,
+  "rating": 3,
+  "numReviews": 1,
+  "name": "Best Pants",
+  "image": "/uploads\\1648143003697.jpg",
+  "brand": "Nike",
+  "category": "Pants",
+  "description": "Best Pants",
+  "reviews": [
+    {
+      "rating": 3,
+      "_id": {
+        "$oid": "623cb28b27fd1517b46af0f6"
+      },
+      "name": "pankaj",
+      "comment": "Good Product",
+      "createdAt": {
+        "$date": "2022-03-24T18:03:55.053Z"
+      },
+      "updatedAt": {
+        "$date": "2022-03-24T18:03:55.053Z"
+      }
+    }
+  ],
+  "__v": 1
+}]
